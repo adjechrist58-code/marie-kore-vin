@@ -1,0 +1,6 @@
+{
+  "name": "Marie Koré Vin - Événement & Cave en Ligne",
+  "description": "Boutique en ligne officielle Marie Koré Vin style Jumia. Diffusion du Grand Événement de Dégustation et Vente de Vin, chariot d'achat intégré, paiement sécurisé et gestion de stock en temps réel.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
